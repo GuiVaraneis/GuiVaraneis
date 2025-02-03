@@ -1,6 +1,6 @@
 
   <div align="Center">
-     Oi! Sou Guilherme Varaneis, estudante de bacherelado em sistmas de informação. 
+     Oi! Sou Guilherme Varaneis, estudante de bacherelado em sistemas de informação. 
     <br>
      Na busca insaciável por conhecimento no mundo vasto da tecnologia🗺️💻
     <br>
